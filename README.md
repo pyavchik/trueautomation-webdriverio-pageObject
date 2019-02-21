@@ -18,6 +18,10 @@ npm install trueautomation-helper --save-dev
 npm install webdriverio --save-dev
 ```
 
+```bash
+npm install --save-dev @wdio/cli --save-dev
+```
+
 For trueautomation init: 
 ```bash
 trueautomation init
